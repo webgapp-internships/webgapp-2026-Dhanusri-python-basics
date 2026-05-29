@@ -1,0 +1,13 @@
+print("set examoles")
+fruits={"banana","mango","orange"}
+print(fruits)
+marks={99,98,97}
+print(marks)
+
+
+
+print("dict examples")
+students={"name":"dhanusri","age":19}
+details={"course":"python","year":1}
+print(students)
+print(details)

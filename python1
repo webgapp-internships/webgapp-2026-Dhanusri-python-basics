@@ -1,0 +1,23 @@
+name=input("What is your name:")
+print("My name is ", name)
+
+dob=input("What is your dob:")
+print("My dob is ", dob)
+
+degree=input("What is your degree:")
+print("My degree is ", degree)
+
+course=input("Which course are you studing:")
+print("I am studing ", course)
+
+home=input("Where are you from:")
+print("I am from ", home)
+
+regno=input("Enter your regno:")
+print("My regno is ", regno)
+
+skills=input("Enter your skills:")
+print("My skills are ", skills)
+
+learn=input("What you like to learn:")
+print("I would like to learn ", learn)
