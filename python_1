@@ -1,0 +1,21 @@
+
+    marks=[76,88,34,90,25]
+
+
+def check_result(mark):
+       if mark>35
+           return "pass"
+       else:
+           return "fail"
+
+
+i=0
+while i<len(marks):
+
+    result = check_result(marks[i])
+    print("Students",i+1,":",result)
+
+    i+1
+
+    
+
